@@ -1,3 +1,3 @@
-# lms
+# LMS
 
 A new Flutter project.
